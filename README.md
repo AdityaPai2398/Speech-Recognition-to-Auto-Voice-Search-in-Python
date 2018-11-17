@@ -13,5 +13,7 @@ Default Browser : Google Chrome
 
 
 F.A.Q
+
 This is shit,why did you build this? 
+
 Ans: I was Bored
